@@ -16,15 +16,22 @@
       `(,@(apply f (list char prefix nextstate kana))
 	    :children ,(seq-map `(lambda (c) (walk ,f c)) child)))))
 
-(with-current-buffer (get-buffer-create "*json-encoded*")
+(defun rule-list-to-json-string (tree kana-modification-function)
   (let ((json-object-type 'plist))
-    (erase-buffer)
-    (insert (json-encode
-	     (list (walk '(lambda (char prefix nextstate kana)
- 		      (let ((output (pcase kana
- 				      (`(,_ . ,o) o)
- 				      ((and (pred stringp) o) o)
- 				      (_ nil)))) ; 関数等はすべて使用不可能なので消す
- 			(list prefix :next nextstate :kana output)))
- 		   ;; (nth 20 (nth 4 skk-rule-tree)))))))
- 		   skk-rule-tree))))))
+    (json-encode
+     (list (walk '(lambda (char prefix nextstate kana)
+ 		    (let ((output (apply kana-modification-function (list kana)))) ; 関数等はすべて使用不可能なので消す
+ 		      (list prefix :next nextstate :kana output)))
+ 		 ;; (nth 20 (nth 4 skk-rule-tree)))))))
+ 		 tree)))))
+
+
+(progn
+  (find-file "default.json")
+  (erase-buffer)
+  (insert (rule-list-to-json-string
+	   skk-rule-tree #'(lambda (kana) (pcase kana
+					    ((pred consp) (cdr kana))
+					    ((pred stringp) kana)
+					    (_ nil)))))
+  (json-pretty-print-buffer))
