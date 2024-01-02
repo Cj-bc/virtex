@@ -35,3 +35,14 @@
 					    ((pred stringp) kana)
 					    (_ nil)))))
   (json-pretty-print-buffer))
+
+
+(progn
+  (find-file "katakana.json")
+  (erase-buffer)
+  (insert (rule-list-to-json-string
+	   skk-rule-tree #'(lambda (kana) (pcase kana
+					    ((pred consp) (car kana))
+					    ((pred stringp) kana)
+					    (_ nil)))))
+  (json-pretty-print-buffer))
