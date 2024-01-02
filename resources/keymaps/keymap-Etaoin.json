@@ -32,4 +32,5 @@
     "bind.lxt_lg_rt" : "KeyAction.Insert:z",
     "bind.rg_rjt": "KeyAction.SetKeymap:SkkEtaoin",
     "bind.rjt_rt": "KeyAction.SetKeymap:Glyphs",
+    "bind.lt_rjt": "KeyAction.SetKeymap:EtaoinUpper",
 }
