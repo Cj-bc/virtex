@@ -1,0 +1,16 @@
+{
+    "bind.ljt_rjt_rt" : "KeyAction.Forward",
+    "bind.ljt_lt_rjt" : "KeyAction.Backward",
+    "bind.rtr" : "KeyAction.Insert: ",
+    "bind.ltr" : "KeyAction.BackSpace",
+    "bind.lyt_lxt_lt" : "KeyAction.SetKeymap:Default",
+    "bind.rg" : "KeyAction.Insert:.",
+    "bind.lg" : "KeyAction.Insert:,",
+    "bind.rt" : "KeyAction.Insert:)",
+    "bind.lt" : "KeyAction.Insert:(",
+    "bind.rxt_rg" : "KeyAction.Insert:=",
+    "bind.lg_rxt" : "KeyAction.Insert:-",
+    "bind.rxt_rt" : "KeyAction.Insert:>",
+    "bind.lt_rxt" : "KeyAction.Insert:<",
+    "bind.lxt_rg" : "KeyAction.Insert::",
+}

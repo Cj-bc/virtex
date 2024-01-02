@@ -1,0 +1,7 @@
+{
+    "bind.lt": "KeyAction.SetKeymap:Etaoin",
+    "bind.rt": "KeyAction.SetKeymap:Number",
+    "bind.ltr": "KeyAction.BackSpace",
+    "bind.ljt_rjt_rt":  "KeyAction.Forward",
+    "bind.ljt_lt_rjt": "KeyAction.Backward",
+}
