@@ -34,4 +34,5 @@
     "bind.rg_rjt": "KeyAction.SetKeymap:Etaoin",
     "bind.ryt": "Skk.ConversionKey",
     "bind.rjt_rt": "KeyAction.SetKeymap:Glyphs",
+    "bind.rg_rjt_rt": "Skk.ToggleKana",
 }
