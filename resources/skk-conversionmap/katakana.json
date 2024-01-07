@@ -3,16 +3,6 @@
     "next": null,
     "kana": null,
     "children": {
-      "'": {
-        "next": null,
-        "kana": "ー",
-        "children": null
-      },
-      "{": {
-        "next": null,
-        "kana": null,
-        "children": null
-      },
       "\n": {
         "next": null,
         "kana": null,
@@ -55,7 +45,7 @@
       },
       "q": {
         "next": null,
-        "kana": "ン",
+        "kana": null,
         "children": null
       },
       "l": {
@@ -70,7 +60,7 @@
       },
       "[": {
         "next": null,
-        "kana": null,
+        "kana": "「",
         "children": null
       },
       "?": {
@@ -80,7 +70,7 @@
       },
       ";": {
         "next": null,
-        "kana": "ッ",
+        "kana": "；",
         "children": null
       },
       ":": {
@@ -107,100 +97,10 @@
         "next": null,
         "kana": null,
         "children": {
-          "zc": {
-            "next": null,
-            "kana": "ザ",
-            "children": null
-          },
-          "zd": {
-            "next": null,
-            "kana": "ゼン",
-            "children": null
-          },
-          "zf": {
-            "next": null,
-            "kana": "ゼ",
-            "children": null
-          },
-          "zp": {
-            "next": null,
-            "kana": "ゾウ",
-            "children": null
-          },
-          "zq": {
-            "next": null,
-            "kana": "ザイ",
-            "children": null
-          },
-          "zr": {
-            "next": null,
-            "kana": "ザル",
-            "children": null
-          },
-          "zv": {
-            "next": null,
-            "kana": "ザイ",
-            "children": null
-          },
-          "zw": {
-            "next": null,
-            "kana": "ゼイ",
-            "children": null
-          },
-          "zx": {
-            "next": null,
-            "kana": "ゼイ",
-            "children": null
-          },
           "zy": {
             "next": null,
             "kana": null,
             "children": {
-              "zyd": {
-                "next": null,
-                "kana": "ジェン",
-                "children": null
-              },
-              "zyh": {
-                "next": null,
-                "kana": "ジュウ",
-                "children": null
-              },
-              "zyj": {
-                "next": null,
-                "kana": "ジュン",
-                "children": null
-              },
-              "zyl": {
-                "next": null,
-                "kana": "ジョン",
-                "children": null
-              },
-              "zyn": {
-                "next": null,
-                "kana": "ジャン",
-                "children": null
-              },
-              "zyp": {
-                "next": null,
-                "kana": "ジョウ",
-                "children": null
-              },
-              "zyq": {
-                "next": null,
-                "kana": "ジャイ",
-                "children": null
-              },
-              "zyw": {
-                "next": null,
-                "kana": "ジェイ",
-                "children": null
-              },
-              "zyz": {
-                "next": null,
-                "kana": "ジャン",
-                "children": null
-              },
               "zyu": {
                 "next": null,
                 "kana": "ジュ",
@@ -240,7 +140,7 @@
           },
           "zn": {
             "next": null,
-            "kana": "ザン",
+            "kana": "ー",
             "children": null
           },
           "zL": {
@@ -250,17 +150,17 @@
           },
           "zl": {
             "next": null,
-            "kana": "ゾン",
+            "kana": "→",
             "children": null
           },
           "zk": {
             "next": null,
-            "kana": "ジン",
+            "kana": "↑",
             "children": null
           },
           "zj": {
             "next": null,
-            "kana": "ズン",
+            "kana": "↓",
             "children": null
           },
           "zi": {
@@ -270,7 +170,7 @@
           },
           "zh": {
             "next": null,
-            "kana": "ズウ",
+            "kana": "←",
             "children": null
           },
           "ze": {
@@ -364,8 +264,8 @@
             "children": null
           },
           "zz": {
-            "next": null,
-            "kana": "ザン",
+            "next": "z",
+            "kana": "ッ",
             "children": null
           }
         }
@@ -374,76 +274,6 @@
         "next": null,
         "kana": null,
         "children": {
-          "y<": {
-            "next": null,
-            "kana": "←",
-            "children": null
-          },
-          "y>": {
-            "next": null,
-            "kana": "→",
-            "children": null
-          },
-          "y^": {
-            "next": null,
-            "kana": "↑",
-            "children": null
-          },
-          "yf": {
-            "next": null,
-            "kana": "ユ",
-            "children": null
-          },
-          "yh": {
-            "next": null,
-            "kana": "ユウ",
-            "children": null
-          },
-          "yi": {
-            "next": null,
-            "kana": "ヰ",
-            "children": null
-          },
-          "yj": {
-            "next": null,
-            "kana": "ユン",
-            "children": null
-          },
-          "yl": {
-            "next": null,
-            "kana": "ヨン",
-            "children": null
-          },
-          "yn": {
-            "next": null,
-            "kana": "ヤン",
-            "children": null
-          },
-          "yp": {
-            "next": null,
-            "kana": "ヨウ",
-            "children": null
-          },
-          "yq": {
-            "next": null,
-            "kana": "ヤイ",
-            "children": null
-          },
-          "yr": {
-            "next": null,
-            "kana": "ヨル",
-            "children": null
-          },
-          "yv": {
-            "next": null,
-            "kana": "ユウ",
-            "children": null
-          },
-          "yz": {
-            "next": null,
-            "kana": "ヤン",
-            "children": null
-          },
           "yu": {
             "next": null,
             "kana": "ユ",
@@ -475,76 +305,6 @@
         "next": null,
         "kana": null,
         "children": {
-          "x'": {
-            "next": null,
-            "kana": "'",
-            "children": null
-          },
-          "x[": {
-            "next": null,
-            "kana": "「",
-            "children": null
-          },
-          "x;": {
-            "next": null,
-            "kana": ";",
-            "children": null
-          },
-          "xc": {
-            "next": null,
-            "kana": "シャ",
-            "children": null
-          },
-          "xd": {
-            "next": null,
-            "kana": "シェン",
-            "children": null
-          },
-          "xf": {
-            "next": null,
-            "kana": "シェイ",
-            "children": null
-          },
-          "xh": {
-            "next": null,
-            "kana": "シュウ",
-            "children": null
-          },
-          "xj": {
-            "next": null,
-            "kana": "シュン",
-            "children": null
-          },
-          "xl": {
-            "next": null,
-            "kana": "ション",
-            "children": null
-          },
-          "xn": {
-            "next": null,
-            "kana": "シャン",
-            "children": null
-          },
-          "xp": {
-            "next": null,
-            "kana": "ショウ",
-            "children": null
-          },
-          "xq": {
-            "next": null,
-            "kana": "シャイ",
-            "children": null
-          },
-          "xv": {
-            "next": null,
-            "kana": "シャイ",
-            "children": null
-          },
-          "xz": {
-            "next": null,
-            "kana": "シャン",
-            "children": null
-          },
           "xy": {
             "next": null,
             "kana": null,
@@ -568,7 +328,7 @@
           },
           "xw": {
             "next": null,
-            "kana": "シェイ",
+            "kana": null,
             "children": {
               "xwi": {
                 "next": null,
@@ -589,12 +349,12 @@
           },
           "xu": {
             "next": null,
-            "kana": "シュ",
+            "kana": "ゥ",
             "children": null
           },
           "xt": {
             "next": null,
-            "kana": "シュツ",
+            "kana": null,
             "children": {
               "xtu": {
                 "next": null,
@@ -616,12 +376,12 @@
           },
           "xo": {
             "next": null,
-            "kana": "ショ",
+            "kana": "ォ",
             "children": null
           },
           "xk": {
             "next": null,
-            "kana": "シン",
+            "kana": null,
             "children": {
               "xke": {
                 "next": null,
@@ -637,69 +397,23 @@
           },
           "xi": {
             "next": null,
-            "kana": "シ",
+            "kana": "ィ",
             "children": null
           },
           "xe": {
             "next": null,
-            "kana": "シェ",
+            "kana": "ェ",
             "children": null
           },
           "xa": {
             "next": null,
-            "kana": "シャ",
+            "kana": "ァ",
             "children": null
           },
           "xx": {
             "next": "x",
             "kana": "ッ",
-            "children": {
-              "xxa": {
-                "next": null,
-                "kana": "ァ",
-                "children": null
-              },
-              "xxe": {
-                "next": null,
-                "kana": "ェ",
-                "children": null
-              },
-              "xxi": {
-                "next": null,
-                "kana": "ィ",
-                "children": null
-              },
-              "xxo": {
-                "next": null,
-                "kana": "ォ",
-                "children": null
-              },
-              "xxu": {
-                "next": null,
-                "kana": "ゥ",
-                "children": null
-              },
-              "xxh": {
-                "next": null,
-                "kana": "←",
-                "children": null
-              },
-              "xxj": {
-                "next": null,
-                "kana": "↓",
-                "children": null
-              },
-              "xxk": {
-                "next": null,
-                "kana": "↑",
-                "children": null
-              },
-              "xxl": {
-                "next": null,
-                "kana": "→",
-                "children": null
-              }
-            }
+            "children": null
           }
         }
       },
@@ -707,103 +421,6 @@
         "next": null,
         "kana": null,
         "children": {
-          "wA": {
-            "next": null,
-            "kana": "ヮ",
-            "children": null
-          },
-          "wd": {
-            "next": null,
-            "kana": "ウェン",
-            "children": null
-          },
-          "wf": {
-            "next": null,
-            "kana": "ワイ",
-            "children": null
-          },
-          "wh": {
-            "next": null,
-            "kana": null,
-            "children": {
-              "wha": {
-                "next": null,
-                "kana": "ウァ",
-                "children": null
-              },
-              "whe": {
-                "next": null,
-                "kana": "ウェ",
-                "children": null
-              },
-              "whi": {
-                "next": null,
-                "kana": "ウィ",
-                "children": null
-              },
-              "who": {
-                "next": null,
-                "kana": "ウォ",
-                "children": null
-              },
-              "whu": {
-                "next": null,
-                "kana": "ウ",
-                "children": null
-              }
-            }
-          },
-          "wk": {
-            "next": null,
-            "kana": "ウィン",
-            "children": null
-          },
-          "wl": {
-            "next": null,
-            "kana": "ウォン",
-            "children": null
-          },
-          "wn": {
-            "next": null,
-            "kana": "ワン",
-            "children": null
-          },
-          "wp": {
-            "next": null,
-            "kana": "ウォー",
-            "children": null
-          },
-          "wq": {
-            "next": null,
-            "kana": "ワイ",
-            "children": null
-          },
-          "wr": {
-            "next": null,
-            "kana": "ワレ",
-            "children": null
-          },
-          "ws": {
-            "next": null,
-            "kana": null,
-            "children": {
-              "wso": {
-                "next": null,
-                "kana": "ウォ",
-                "children": null
-              }
-            }
-          },
-          "wt": {
-            "next": null,
-            "kana": "ワタ",
-            "children": null
-          },
-          "wz": {
-            "next": null,
-            "kana": "ワン",
-            "children": null
-          },
           "wu": {
             "next": null,
             "kana": "ウ",
@@ -840,72 +457,6 @@
         "next": null,
         "kana": null,
         "children": {
-          "vd": {
-            "next": null,
-            "kana": "ヴェン",
-            "children": null
-          },
-          "vk": {
-            "next": null,
-            "kana": "ヴィン",
-            "children": null
-          },
-          "vl": {
-            "next": null,
-            "kana": "ヴォン",
-            "children": null
-          },
-          "vn": {
-            "next": null,
-            "kana": "ヴァン",
-            "children": null
-          },
-          "vp": {
-            "next": null,
-            "kana": "ヴォー",
-            "children": null
-          },
-          "vq": {
-            "next": null,
-            "kana": "ヴァイ",
-            "children": null
-          },
-          "vw": {
-            "next": null,
-            "kana": "ヴェイ",
-            "children": null
-          },
-          "vy": {
-            "next": null,
-            "kana": null,
-            "children": {
-              "vya": {
-                "next": null,
-                "kana": "ヴャ",
-                "children": null
-              },
-              "vye": {
-                "next": null,
-                "kana": "ヴェ",
-                "children": null
-              },
-              "vyo": {
-                "next": null,
-                "kana": "ヴョ",
-                "children": null
-              },
-              "vyu": {
-                "next": null,
-                "kana": "ヴュ",
-                "children": null
-              }
-            }
-          },
-          "vz": {
-            "next": null,
-            "kana": "ヴァン",
-            "children": null
-          },
           "vu": {
             "next": null,
             "kana": "ヴ",
@@ -947,151 +498,10 @@
         "next": null,
         "kana": null,
         "children": {
-          "tb": {
-            "next": null,
-            "kana": "タビ",
-            "children": null
-          },
-          "td": {
-            "next": null,
-            "kana": "テン",
-            "children": null
-          },
-          "tg": {
-            "next": null,
-            "kana": null,
-            "children": {
-              "tgh": {
-                "next": null,
-                "kana": "テュー",
-                "children": null
-              },
-              "tgi": {
-                "next": null,
-                "kana": "ティ",
-                "children": null
-              },
-              "tgk": {
-                "next": null,
-                "kana": "ティン",
-                "children": null
-              },
-              "tgp": {
-                "next": null,
-                "kana": "トゥー",
-                "children": null
-              },
-              "tgu": {
-                "next": null,
-                "kana": "テュ",
-                "children": null
-              }
-            }
-          },
-          "th": {
-            "next": null,
-            "kana": "ツウ",
-            "children": null
-          },
-          "tj": {
-            "next": null,
-            "kana": "ツン",
-            "children": null
-          },
-          "tk": {
-            "next": null,
-            "kana": "チン",
-            "children": null
-          },
-          "tl": {
-            "next": null,
-            "kana": "トン",
-            "children": null
-          },
-          "tm": {
-            "next": null,
-            "kana": "タメ",
-            "children": null
-          },
-          "tn": {
-            "next": null,
-            "kana": "タン",
-            "children": null
-          },
-          "tp": {
-            "next": null,
-            "kana": "トウ",
-            "children": null
-          },
-          "tq": {
-            "next": null,
-            "kana": "タイ",
-            "children": null
-          },
-          "tr": {
-            "next": null,
-            "kana": "タラ",
-            "children": null
-          },
-          "tw": {
-            "next": null,
-            "kana": "テイ",
-            "children": null
-          },
-          "tz": {
-            "next": null,
-            "kana": "タン",
-            "children": null
-          },
           "ty": {
             "next": null,
             "kana": null,
             "children": {
-              "tyd": {
-                "next": null,
-                "kana": "チェン",
-                "children": null
-              },
-              "tyh": {
-                "next": null,
-                "kana": "チュウ",
-                "children": null
-              },
-              "tyj": {
-                "next": null,
-                "kana": "チュン",
-                "children": null
-              },
-              "tyl": {
-                "next": null,
-                "kana": "チョン",
-                "children": null
-              },
-              "tyn": {
-                "next": null,
-                "kana": "チャン",
-                "children": null
-              },
-              "typ": {
-                "next": null,
-                "kana": "チョウ",
-                "children": null
-              },
-              "tyq": {
-                "next": null,
-                "kana": "チャイ",
-                "children": null
-              },
-              "tyw": {
-                "next": null,
-                "kana": "チェイ",
-                "children": null
-              },
-              "tyz": {
-                "next": null,
-                "kana": "チャン",
-                "children": null
-              },
               "tyu": {
                 "next": null,
                 "kana": "チュ",
@@ -1128,26 +538,6 @@
             "next": null,
             "kana": null,
             "children": {
-              "tsa": {
-                "next": null,
-                "kana": "ツァ",
-                "children": null
-              },
-              "tse": {
-                "next": null,
-                "kana": "ツェ",
-                "children": null
-              },
-              "tsi": {
-                "next": null,
-                "kana": "ツィ",
-                "children": null
-              },
-              "tso": {
-                "next": null,
-                "kana": "ツォ",
-                "children": null
-              },
               "tsu": {
                 "next": null,
                 "kana": "ツ",
@@ -1165,6 +555,37 @@
             "kana": "チ",
             "children": null
           },
+          "th": {
+            "next": null,
+            "kana": null,
+            "children": {
+              "thu": {
+                "next": null,
+                "kana": "テュ",
+                "children": null
+              },
+              "tho": {
+                "next": null,
+                "kana": "テョ",
+                "children": null
+              },
+              "thi": {
+                "next": null,
+                "kana": "ティ",
+                "children": null
+              },
+              "the": {
+                "next": null,
+                "kana": "テェ",
+                "children": null
+              },
+              "tha": {
+                "next": null,
+                "kana": "テァ",
+                "children": null
+              }
+            }
+          },
           "te": {
             "next": null,
             "kana": "テ",
@@ -1176,8 +597,8 @@
             "children": null
           },
           "tt": {
-            "next": null,
-            "kana": "タチ",
+            "next": "t",
+            "kana": "ッ",
             "children": null
           }
         }
@@ -1186,125 +607,10 @@
         "next": null,
         "kana": null,
         "children": {
-          "sd": {
-            "next": null,
-            "kana": "セン",
-            "children": null
-          },
-          "sf": {
-            "next": null,
-            "kana": "サイ",
-            "children": null
-          },
-          "sh": {
-            "next": null,
-            "kana": "スウ",
-            "children": null
-          },
-          "sj": {
-            "next": null,
-            "kana": "スン",
-            "children": null
-          },
-          "sk": {
-            "next": null,
-            "kana": "シン",
-            "children": null
-          },
-          "sl": {
-            "next": null,
-            "kana": "ソン",
-            "children": null
-          },
-          "sm": {
-            "next": null,
-            "kana": "シモ",
-            "children": null
-          },
-          "sn": {
-            "next": null,
-            "kana": "サン",
-            "children": null
-          },
-          "sp": {
-            "next": null,
-            "kana": "ソウ",
-            "children": null
-          },
-          "sq": {
-            "next": null,
-            "kana": "サイ",
-            "children": null
-          },
-          "sr": {
-            "next": null,
-            "kana": "スル",
-            "children": null
-          },
-          "st": {
-            "next": null,
-            "kana": "シタ",
-            "children": null
-          },
-          "sv": {
-            "next": null,
-            "kana": "サイ",
-            "children": null
-          },
-          "sw": {
-            "next": null,
-            "kana": "セイ",
-            "children": null
-          },
-          "sz": {
-            "next": null,
-            "kana": "サン",
-            "children": null
-          },
           "sy": {
             "next": null,
             "kana": null,
             "children": {
-              "syd": {
-                "next": null,
-                "kana": "シェン",
-                "children": null
-              },
-              "syh": {
-                "next": null,
-                "kana": "シュウ",
-                "children": null
-              },
-              "syj": {
-                "next": null,
-                "kana": "シュン",
-                "children": null
-              },
-              "syl": {
-                "next": null,
-                "kana": "ション",
-                "children": null
-              },
-              "syp": {
-                "next": null,
-                "kana": "ショウ",
-                "children": null
-              },
-              "syq": {
-                "next": null,
-                "kana": "シャイ",
-                "children": null
-              },
-              "syw": {
-                "next": null,
-                "kana": "シェイ",
-                "children": null
-              },
-              "syz": {
-                "next": null,
-                "kana": "シャン",
-                "children": null
-              },
               "syu": {
                 "next": null,
                 "kana": "シュ",
@@ -1347,6 +653,37 @@
             "kana": "シ",
             "children": null
           },
+          "sh": {
+            "next": null,
+            "kana": null,
+            "children": {
+              "shu": {
+                "next": null,
+                "kana": "シュ",
+                "children": null
+              },
+              "sho": {
+                "next": null,
+                "kana": "ショ",
+                "children": null
+              },
+              "shi": {
+                "next": null,
+                "kana": "シ",
+                "children": null
+              },
+              "she": {
+                "next": null,
+                "kana": "シェ",
+                "children": null
+              },
+              "sha": {
+                "next": null,
+                "kana": "シャ",
+                "children": null
+              }
+            }
+          },
           "se": {
             "next": null,
             "kana": "セ",
@@ -1358,8 +695,8 @@
             "children": null
           },
           "ss": {
-            "next": null,
-            "kana": "セイ",
+            "next": "s",
+            "kana": "ッ",
             "children": null
           }
         }
@@ -1368,110 +705,10 @@
         "next": null,
         "kana": null,
         "children": {
-          "rd": {
-            "next": null,
-            "kana": "レン",
-            "children": null
-          },
-          "rh": {
-            "next": null,
-            "kana": "ルウ",
-            "children": null
-          },
-          "rj": {
-            "next": null,
-            "kana": "ルン",
-            "children": null
-          },
-          "rk": {
-            "next": null,
-            "kana": "リン",
-            "children": null
-          },
-          "rl": {
-            "next": null,
-            "kana": "ロン",
-            "children": null
-          },
-          "rn": {
-            "next": null,
-            "kana": "ラン",
-            "children": null
-          },
-          "rp": {
-            "next": null,
-            "kana": "ロウ",
-            "children": null
-          },
-          "rq": {
-            "next": null,
-            "kana": "ライ",
-            "children": null
-          },
-          "rw": {
-            "next": null,
-            "kana": "レイ",
-            "children": null
-          },
-          "rz": {
-            "next": null,
-            "kana": "ラン",
-            "children": null
-          },
           "ry": {
             "next": null,
             "kana": null,
             "children": {
-              "ryd": {
-                "next": null,
-                "kana": "リェン",
-                "children": null
-              },
-              "ryh": {
-                "next": null,
-                "kana": "リュウ",
-                "children": null
-              },
-              "ryj": {
-                "next": null,
-                "kana": "リュン",
-                "children": null
-              },
-              "ryk": {
-                "next": null,
-                "kana": "リョク",
-                "children": null
-              },
-              "ryl": {
-                "next": null,
-                "kana": "リョン",
-                "children": null
-              },
-              "ryn": {
-                "next": null,
-                "kana": "リャン",
-                "children": null
-              },
-              "ryp": {
-                "next": null,
-                "kana": "リョウ",
-                "children": null
-              },
-              "ryq": {
-                "next": null,
-                "kana": "リャイ",
-                "children": null
-              },
-              "ryw": {
-                "next": null,
-                "kana": "リェイ",
-                "children": null
-              },
-              "ryz": {
-                "next": null,
-                "kana": "リャン",
-                "children": null
-              },
               "ryu": {
                 "next": null,
                 "kana": "リュ",
@@ -1525,8 +762,8 @@
             "children": null
           },
           "rr": {
-            "next": null,
-            "kana": "ラレ",
+            "next": "r",
+            "kana": "ッ",
             "children": null
           }
         }
@@ -1535,181 +772,10 @@
         "next": null,
         "kana": null,
         "children": {
-          "pd": {
-            "next": null,
-            "kana": "ペン",
-            "children": null
-          },
-          "pf": {
-            "next": null,
-            "kana": "ポン",
-            "children": null
-          },
-          "pg": {
-            "next": null,
-            "kana": null,
-            "children": {
-              "pga": {
-                "next": null,
-                "kana": "ピャ",
-                "children": null
-              },
-              "pgd": {
-                "next": null,
-                "kana": "ピェン",
-                "children": null
-              },
-              "pge": {
-                "next": null,
-                "kana": "ピェ",
-                "children": null
-              },
-              "pgh": {
-                "next": null,
-                "kana": "ピュウ",
-                "children": null
-              },
-              "pgj": {
-                "next": null,
-                "kana": "ピュン",
-                "children": null
-              },
-              "pgl": {
-                "next": null,
-                "kana": "ピョン",
-                "children": null
-              },
-              "pgn": {
-                "next": null,
-                "kana": "ピャン",
-                "children": null
-              },
-              "pgo": {
-                "next": null,
-                "kana": "ピョ",
-                "children": null
-              },
-              "pgp": {
-                "next": null,
-                "kana": "ピョウ",
-                "children": null
-              },
-              "pgq": {
-                "next": null,
-                "kana": "ピャイ",
-                "children": null
-              },
-              "pgu": {
-                "next": null,
-                "kana": "ピュ",
-                "children": null
-              },
-              "pgw": {
-                "next": null,
-                "kana": "ピェイ",
-                "children": null
-              },
-              "pgz": {
-                "next": null,
-                "kana": "ピャン",
-                "children": null
-              }
-            }
-          },
-          "ph": {
-            "next": null,
-            "kana": "プウ",
-            "children": null
-          },
-          "pj": {
-            "next": null,
-            "kana": "プン",
-            "children": null
-          },
-          "pk": {
-            "next": null,
-            "kana": "ピン",
-            "children": null
-          },
-          "pl": {
-            "next": null,
-            "kana": "ポン",
-            "children": null
-          },
-          "pn": {
-            "next": null,
-            "kana": "パン",
-            "children": null
-          },
-          "pq": {
-            "next": null,
-            "kana": "パイ",
-            "children": null
-          },
-          "pv": {
-            "next": null,
-            "kana": "ポウ",
-            "children": null
-          },
-          "pw": {
-            "next": null,
-            "kana": "ペイ",
-            "children": null
-          },
-          "pz": {
-            "next": null,
-            "kana": "パン",
-            "children": null
-          },
           "py": {
             "next": null,
             "kana": null,
             "children": {
-              "pyd": {
-                "next": null,
-                "kana": "ピェン",
-                "children": null
-              },
-              "pyh": {
-                "next": null,
-                "kana": "ピュウ",
-                "children": null
-              },
-              "pyj": {
-                "next": null,
-                "kana": "ピュン",
-                "children": null
-              },
-              "pyl": {
-                "next": null,
-                "kana": "ピョン",
-                "children": null
-              },
-              "pyn": {
-                "next": null,
-                "kana": "ピャン",
-                "children": null
-              },
-              "pyp": {
-                "next": null,
-                "kana": "ピョウ",
-                "children": null
-              },
-              "pyq": {
-                "next": null,
-                "kana": "ピャイ",
-                "children": null
-              },
-              "pyw": {
-                "next": null,
-                "kana": "ピェイ",
-                "children": null
-              },
-              "pyz": {
-                "next": null,
-                "kana": "ピャン",
-                "children": null
-              },
               "pyu": {
                 "next": null,
                 "kana": "ピュ",
@@ -1763,8 +829,8 @@
             "children": null
           },
           "pp": {
-            "next": null,
-            "kana": "ポウ",
+            "next": "p",
+            "kana": "ッ",
             "children": null
           }
         }
@@ -1778,196 +844,10 @@
         "next": null,
         "kana": "ン",
         "children": {
-          "nb": {
-            "next": null,
-            "kana": "ネバ",
-            "children": null
-          },
-          "nd": {
-            "next": null,
-            "kana": "ネン",
-            "children": null
-          },
-          "nf": {
-            "next": null,
-            "kana": "ヌ",
-            "children": null
-          },
-          "ng": {
-            "next": null,
-            "kana": null,
-            "children": {
-              "nga": {
-                "next": null,
-                "kana": "ニャ",
-                "children": null
-              },
-              "ngd": {
-                "next": null,
-                "kana": "ニェン",
-                "children": null
-              },
-              "nge": {
-                "next": null,
-                "kana": "ニェ",
-                "children": null
-              },
-              "ngh": {
-                "next": null,
-                "kana": "ニュウ",
-                "children": null
-              },
-              "ngj": {
-                "next": null,
-                "kana": "ニュン",
-                "children": null
-              },
-              "ngl": {
-                "next": null,
-                "kana": "ニョン",
-                "children": null
-              },
-              "ngn": {
-                "next": null,
-                "kana": "ニャン",
-                "children": null
-              },
-              "ngo": {
-                "next": null,
-                "kana": "ニョ",
-                "children": null
-              },
-              "ngp": {
-                "next": null,
-                "kana": "ニョウ",
-                "children": null
-              },
-              "ngq": {
-                "next": null,
-                "kana": "ニャイ",
-                "children": null
-              },
-              "ngu": {
-                "next": null,
-                "kana": "ニュ",
-                "children": null
-              },
-              "ngw": {
-                "next": null,
-                "kana": "ニェイ",
-                "children": null
-              },
-              "ngz": {
-                "next": null,
-                "kana": "ニャン",
-                "children": null
-              }
-            }
-          },
-          "nh": {
-            "next": null,
-            "kana": "ヌウ",
-            "children": null
-          },
-          "nj": {
-            "next": null,
-            "kana": "ヌン",
-            "children": null
-          },
-          "nk": {
-            "next": null,
-            "kana": "ニン",
-            "children": null
-          },
-          "nl": {
-            "next": null,
-            "kana": "ノン",
-            "children": null
-          },
-          "np": {
-            "next": null,
-            "kana": "ノウ",
-            "children": null
-          },
-          "nq": {
-            "next": null,
-            "kana": "ナイ",
-            "children": null
-          },
-          "nr": {
-            "next": null,
-            "kana": "ナル",
-            "children": null
-          },
-          "nt": {
-            "next": null,
-            "kana": "ニチ",
-            "children": null
-          },
-          "nv": {
-            "next": null,
-            "kana": "ヌン",
-            "children": null
-          },
-          "nw": {
-            "next": null,
-            "kana": "ネイ",
-            "children": null
-          },
-          "nz": {
-            "next": null,
-            "kana": "ナン",
-            "children": null
-          },
           "ny": {
             "next": null,
             "kana": null,
             "children": {
-              "nyd": {
-                "next": null,
-                "kana": "ニェン",
-                "children": null
-              },
-              "nyh": {
-                "next": null,
-                "kana": "ニュウ",
-                "children": null
-              },
-              "nyj": {
-                "next": null,
-                "kana": "ニュン",
-                "children": null
-              },
-              "nyl": {
-                "next": null,
-                "kana": "ニョン",
-                "children": null
-              },
-              "nyn": {
-                "next": null,
-                "kana": "ニャン",
-                "children": null
-              },
-              "nyp": {
-                "next": null,
-                "kana": "ニョウ",
-                "children": null
-              },
-              "nyq": {
-                "next": null,
-                "kana": "ニャイ",
-                "children": null
-              },
-              "nyw": {
-                "next": null,
-                "kana": "ニェイ",
-                "children": null
-              },
-              "nyz": {
-                "next": null,
-                "kana": "ニャン",
-                "children": null
-              },
               "nyu": {
                 "next": null,
                 "kana": "ニュ",
@@ -2036,206 +916,10 @@
         "next": null,
         "kana": null,
         "children": {
-          "mm": {
-            "next": "m",
-            "kana": "ン",
-            "children": null
-          },
-          "md": {
-            "next": null,
-            "kana": "メン",
-            "children": null
-          },
-          "mf": {
-            "next": null,
-            "kana": "ム",
-            "children": null
-          },
-          "mg": {
-            "next": null,
-            "kana": null,
-            "children": {
-              "mga": {
-                "next": null,
-                "kana": "ミャ",
-                "children": null
-              },
-              "mgd": {
-                "next": null,
-                "kana": "ミェン",
-                "children": null
-              },
-              "mge": {
-                "next": null,
-                "kana": "ミェ",
-                "children": null
-              },
-              "mgh": {
-                "next": null,
-                "kana": "ミュウ",
-                "children": null
-              },
-              "mgj": {
-                "next": null,
-                "kana": "ミュン",
-                "children": null
-              },
-              "mgl": {
-                "next": null,
-                "kana": "ミョン",
-                "children": null
-              },
-              "mgn": {
-                "next": null,
-                "kana": "ミャン",
-                "children": null
-              },
-              "mgo": {
-                "next": null,
-                "kana": "ミョ",
-                "children": null
-              },
-              "mgp": {
-                "next": null,
-                "kana": "ミョウ",
-                "children": null
-              },
-              "mgq": {
-                "next": null,
-                "kana": "ミャイ",
-                "children": null
-              },
-              "mgu": {
-                "next": null,
-                "kana": "ミュ",
-                "children": null
-              },
-              "mgw": {
-                "next": null,
-                "kana": "ミェイ",
-                "children": null
-              },
-              "mgz": {
-                "next": null,
-                "kana": "ミャン",
-                "children": null
-              }
-            }
-          },
-          "mh": {
-            "next": null,
-            "kana": "ムウ",
-            "children": null
-          },
-          "mj": {
-            "next": null,
-            "kana": "ムン",
-            "children": null
-          },
-          "mk": {
-            "next": null,
-            "kana": "ミン",
-            "children": null
-          },
-          "ml": {
-            "next": null,
-            "kana": "モン",
-            "children": null
-          },
-          "mn": {
-            "next": null,
-            "kana": "モノ",
-            "children": null
-          },
-          "mp": {
-            "next": null,
-            "kana": "モウ",
-            "children": null
-          },
-          "mq": {
-            "next": null,
-            "kana": "マイ",
-            "children": null
-          },
-          "mr": {
-            "next": null,
-            "kana": "マル",
-            "children": null
-          },
-          "ms": {
-            "next": null,
-            "kana": "マス",
-            "children": null
-          },
-          "mt": {
-            "next": null,
-            "kana": "マタ",
-            "children": null
-          },
-          "mv": {
-            "next": null,
-            "kana": "ムン",
-            "children": null
-          },
-          "mw": {
-            "next": null,
-            "kana": "メイ",
-            "children": null
-          },
-          "mz": {
-            "next": null,
-            "kana": "マン",
-            "children": null
-          },
           "my": {
             "next": null,
             "kana": null,
             "children": {
-              "myd": {
-                "next": null,
-                "kana": "ミェン",
-                "children": null
-              },
-              "myh": {
-                "next": null,
-                "kana": "ミュウ",
-                "children": null
-              },
-              "myj": {
-                "next": null,
-                "kana": "ミュン",
-                "children": null
-              },
-              "myl": {
-                "next": null,
-                "kana": "ミョン",
-                "children": null
-              },
-              "myn": {
-                "next": null,
-                "kana": "ミャン",
-                "children": null
-              },
-              "myp": {
-                "next": null,
-                "kana": "ミョウ",
-                "children": null
-              },
-              "myq": {
-                "next": null,
-                "kana": "ミャイ",
-                "children": null
-              },
-              "myw": {
-                "next": null,
-                "kana": "ミェイ",
-                "children": null
-              },
-              "myz": {
-                "next": null,
-                "kana": "ミャン",
-                "children": null
-              },
               "myu": {
                 "next": null,
                 "kana": "ミュ",
@@ -2294,201 +978,10 @@
         "next": null,
         "kana": null,
         "children": {
-          "kA": {
-            "next": null,
-            "kana": "ヵ",
-            "children": null
-          },
-          "kE": {
-            "next": null,
-            "kana": "ヶ",
-            "children": null
-          },
-          "kd": {
-            "next": null,
-            "kana": "ケン",
-            "children": null
-          },
-          "kf": {
-            "next": null,
-            "kana": "キ",
-            "children": null
-          },
-          "kg": {
-            "next": null,
-            "kana": null,
-            "children": {
-              "kga": {
-                "next": null,
-                "kana": "キャ",
-                "children": null
-              },
-              "kgd": {
-                "next": null,
-                "kana": "キェン",
-                "children": null
-              },
-              "kge": {
-                "next": null,
-                "kana": "キェ",
-                "children": null
-              },
-              "kgh": {
-                "next": null,
-                "kana": "キュウ",
-                "children": null
-              },
-              "kgl": {
-                "next": null,
-                "kana": "キョン",
-                "children": null
-              },
-              "kgn": {
-                "next": null,
-                "kana": "キャン",
-                "children": null
-              },
-              "kgo": {
-                "next": null,
-                "kana": "キョ",
-                "children": null
-              },
-              "kgp": {
-                "next": null,
-                "kana": "キョウ",
-                "children": null
-              },
-              "kgq": {
-                "next": null,
-                "kana": "キャイ",
-                "children": null
-              },
-              "kgu": {
-                "next": null,
-                "kana": "キュ",
-                "children": null
-              },
-              "kgw": {
-                "next": null,
-                "kana": "キェイ",
-                "children": null
-              },
-              "kgz": {
-                "next": null,
-                "kana": "キャン",
-                "children": null
-              }
-            }
-          },
-          "kh": {
-            "next": null,
-            "kana": "クウ",
-            "children": null
-          },
-          "kj": {
-            "next": null,
-            "kana": "クン",
-            "children": null
-          },
-          "kl": {
-            "next": null,
-            "kana": "コン",
-            "children": null
-          },
-          "km": {
-            "next": null,
-            "kana": "カモ",
-            "children": null
-          },
-          "kn": {
-            "next": null,
-            "kana": "カン",
-            "children": null
-          },
-          "kp": {
-            "next": null,
-            "kana": "コウ",
-            "children": null
-          },
-          "kq": {
-            "next": null,
-            "kana": "カイ",
-            "children": null
-          },
-          "kr": {
-            "next": null,
-            "kana": "カラ",
-            "children": null
-          },
-          "kt": {
-            "next": null,
-            "kana": "コト",
-            "children": null
-          },
-          "kv": {
-            "next": null,
-            "kana": "キン",
-            "children": null
-          },
-          "kw": {
-            "next": null,
-            "kana": "ケイ",
-            "children": null
-          },
-          "kz": {
-            "next": null,
-            "kana": "カン",
-            "children": null
-          },
           "ky": {
             "next": null,
             "kana": null,
             "children": {
-              "kyd": {
-                "next": null,
-                "kana": "キェン",
-                "children": null
-              },
-              "kyh": {
-                "next": null,
-                "kana": "キュウ",
-                "children": null
-              },
-              "kyj": {
-                "next": null,
-                "kana": "キュン",
-                "children": null
-              },
-              "kyl": {
-                "next": null,
-                "kana": "キョン",
-                "children": null
-              },
-              "kyn": {
-                "next": null,
-                "kana": "キャン",
-                "children": null
-              },
-              "kyp": {
-                "next": null,
-                "kana": "キョウ",
-                "children": null
-              },
-              "kyq": {
-                "next": null,
-                "kana": "キャイ",
-                "children": null
-              },
-              "kyw": {
-                "next": null,
-                "kana": "キェイ",
-                "children": null
-              },
-              "kyz": {
-                "next": null,
-                "kana": "キャン",
-                "children": null
-              },
               "kyu": {
                 "next": null,
                 "kana": "キュ",
@@ -2542,8 +1035,8 @@
             "children": null
           },
           "kk": {
-            "next": null,
-            "kana": "キン",
+            "next": "k",
+            "kana": "ッ",
             "children": null
           }
         }
@@ -2552,61 +1045,6 @@
         "next": null,
         "kana": null,
         "children": {
-          "jd": {
-            "next": null,
-            "kana": "ジェン",
-            "children": null
-          },
-          "jf": {
-            "next": null,
-            "kana": "ジュ",
-            "children": null
-          },
-          "jh": {
-            "next": null,
-            "kana": "ジュウ",
-            "children": null
-          },
-          "jk": {
-            "next": null,
-            "kana": "ジン",
-            "children": null
-          },
-          "jl": {
-            "next": null,
-            "kana": "ジョン",
-            "children": null
-          },
-          "jn": {
-            "next": null,
-            "kana": "ジャン",
-            "children": null
-          },
-          "jp": {
-            "next": null,
-            "kana": "ジョウ",
-            "children": null
-          },
-          "jq": {
-            "next": null,
-            "kana": "ジャイ",
-            "children": null
-          },
-          "jv": {
-            "next": null,
-            "kana": "ジュウ",
-            "children": null
-          },
-          "jw": {
-            "next": null,
-            "kana": "ジェイ",
-            "children": null
-          },
-          "jz": {
-            "next": null,
-            "kana": "ジャン",
-            "children": null
-          },
           "jy": {
             "next": null,
             "kana": null,
@@ -2664,8 +1102,8 @@
             "children": null
           },
           "jj": {
-            "next": null,
-            "kana": "ジュン",
+            "next": "j",
+            "kana": "ッ",
             "children": null
           }
         }
@@ -2679,176 +1117,10 @@
         "next": null,
         "kana": null,
         "children": {
-          "hd": {
-            "next": null,
-            "kana": "ヘン",
-            "children": null
-          },
-          "hf": {
-            "next": null,
-            "kana": "フ",
-            "children": null
-          },
-          "hg": {
-            "next": null,
-            "kana": null,
-            "children": {
-              "hga": {
-                "next": null,
-                "kana": "ヒャ",
-                "children": null
-              },
-              "hgd": {
-                "next": null,
-                "kana": "ヒェン",
-                "children": null
-              },
-              "hge": {
-                "next": null,
-                "kana": "ヒェ",
-                "children": null
-              },
-              "hgh": {
-                "next": null,
-                "kana": "ヒュウ",
-                "children": null
-              },
-              "hgj": {
-                "next": null,
-                "kana": "ヒュン",
-                "children": null
-              },
-              "hgl": {
-                "next": null,
-                "kana": "ヒョン",
-                "children": null
-              },
-              "hgn": {
-                "next": null,
-                "kana": "ヒャン",
-                "children": null
-              },
-              "hgo": {
-                "next": null,
-                "kana": "ヒョ",
-                "children": null
-              },
-              "hgp": {
-                "next": null,
-                "kana": "ヒョウ",
-                "children": null
-              },
-              "hgq": {
-                "next": null,
-                "kana": "ヒャイ",
-                "children": null
-              },
-              "hgu": {
-                "next": null,
-                "kana": "ヒュ",
-                "children": null
-              },
-              "hgw": {
-                "next": null,
-                "kana": "ヒェイ",
-                "children": null
-              },
-              "hgz": {
-                "next": null,
-                "kana": "ヒャン",
-                "children": null
-              }
-            }
-          },
-          "hh": {
-            "next": "h",
-            "kana": "ッ",
-            "children": null
-          },
-          "hj": {
-            "next": null,
-            "kana": "フン",
-            "children": null
-          },
-          "hk": {
-            "next": null,
-            "kana": "ヒン",
-            "children": null
-          },
-          "hl": {
-            "next": null,
-            "kana": "ホン",
-            "children": null
-          },
-          "hn": {
-            "next": null,
-            "kana": "ハン",
-            "children": null
-          },
-          "hp": {
-            "next": null,
-            "kana": "ホウ",
-            "children": null
-          },
-          "hq": {
-            "next": null,
-            "kana": "ハイ",
-            "children": null
-          },
-          "ht": {
-            "next": null,
-            "kana": "ヒト",
-            "children": null
-          },
-          "hw": {
-            "next": null,
-            "kana": "ヘイ",
-            "children": null
-          },
-          "hz": {
-            "next": null,
-            "kana": "ハン",
-            "children": null
-          },
           "hy": {
             "next": null,
             "kana": null,
             "children": {
-              "hyd": {
-                "next": null,
-                "kana": "ヒェン",
-                "children": null
-              },
-              "hyh": {
-                "next": null,
-                "kana": "ヒュウ",
-                "children": null
-              },
-              "hyl": {
-                "next": null,
-                "kana": "ヒョン",
-                "children": null
-              },
-              "hyp": {
-                "next": null,
-                "kana": "ヒョウ",
-                "children": null
-              },
-              "hyq": {
-                "next": null,
-                "kana": "ヒャイ",
-                "children": null
-              },
-              "hyw": {
-                "next": null,
-                "kana": "ヒェイ",
-                "children": null
-              },
-              "hyz": {
-                "next": null,
-                "kana": "ヒャン",
-                "children": null
-              },
               "hyu": {
                 "next": null,
                 "kana": "ヒュ",
@@ -2907,115 +1179,10 @@
         "next": null,
         "kana": null,
         "children": {
-          "gd": {
-            "next": null,
-            "kana": "ゲン",
-            "children": null
-          },
-          "gh": {
-            "next": null,
-            "kana": "グウ",
-            "children": null
-          },
-          "gj": {
-            "next": null,
-            "kana": "グン",
-            "children": null
-          },
-          "gk": {
-            "next": null,
-            "kana": "ギン",
-            "children": null
-          },
-          "gl": {
-            "next": null,
-            "kana": "ゴン",
-            "children": null
-          },
-          "gn": {
-            "next": null,
-            "kana": "ガン",
-            "children": null
-          },
-          "gp": {
-            "next": null,
-            "kana": "ゴウ",
-            "children": null
-          },
-          "gq": {
-            "next": null,
-            "kana": "ガイ",
-            "children": null
-          },
-          "gr": {
-            "next": null,
-            "kana": "ガラ",
-            "children": null
-          },
-          "gt": {
-            "next": null,
-            "kana": "ゴト",
-            "children": null
-          },
-          "gw": {
-            "next": null,
-            "kana": "ゲイ",
-            "children": null
-          },
-          "gz": {
-            "next": null,
-            "kana": "ガン",
-            "children": null
-          },
           "gy": {
             "next": null,
             "kana": null,
             "children": {
-              "gyd": {
-                "next": null,
-                "kana": "ギェン",
-                "children": null
-              },
-              "gyh": {
-                "next": null,
-                "kana": "ギュウ",
-                "children": null
-              },
-              "gyj": {
-                "next": null,
-                "kana": "ギュン",
-                "children": null
-              },
-              "gyl": {
-                "next": null,
-                "kana": "ギョン",
-                "children": null
-              },
-              "gyn": {
-                "next": null,
-                "kana": "ギャン",
-                "children": null
-              },
-              "gyp": {
-                "next": null,
-                "kana": "ギョウ",
-                "children": null
-              },
-              "gyq": {
-                "next": null,
-                "kana": "ギャイ",
-                "children": null
-              },
-              "gyw": {
-                "next": null,
-                "kana": "ギェイ",
-                "children": null
-              },
-              "gyz": {
-                "next": null,
-                "kana": "ギャン",
-                "children": null
-              },
               "gyu": {
                 "next": null,
                 "kana": "ギュ",
@@ -3079,71 +1246,6 @@
         "next": null,
         "kana": null,
         "children": {
-          "fd": {
-            "next": null,
-            "kana": "フェン",
-            "children": null
-          },
-          "fh": {
-            "next": null,
-            "kana": "フウ",
-            "children": null
-          },
-          "fj": {
-            "next": null,
-            "kana": "フン",
-            "children": null
-          },
-          "fk": {
-            "next": null,
-            "kana": "フィン",
-            "children": null
-          },
-          "fl": {
-            "next": null,
-            "kana": "フォン",
-            "children": null
-          },
-          "fm": {
-            "next": null,
-            "kana": "フム",
-            "children": null
-          },
-          "fn": {
-            "next": null,
-            "kana": "ファン",
-            "children": null
-          },
-          "fp": {
-            "next": null,
-            "kana": "フォー",
-            "children": null
-          },
-          "fq": {
-            "next": null,
-            "kana": "ファイ",
-            "children": null
-          },
-          "fr": {
-            "next": null,
-            "kana": "フル",
-            "children": null
-          },
-          "fs": {
-            "next": null,
-            "kana": "ファイ",
-            "children": null
-          },
-          "fw": {
-            "next": null,
-            "kana": "フェイ",
-            "children": null
-          },
-          "fz": {
-            "next": null,
-            "kana": "ファン",
-            "children": null
-          },
           "fy": {
             "next": null,
             "kana": null,
@@ -3216,120 +1318,9 @@
         "next": null,
         "kana": null,
         "children": {
-          "dc": {
-            "next": null,
-            "kana": null,
-            "children": {
-              "dch": {
-                "next": null,
-                "kana": "デュー",
-                "children": null
-              },
-              "dci": {
-                "next": null,
-                "kana": "ディ",
-                "children": null
-              },
-              "dck": {
-                "next": null,
-                "kana": "ディン",
-                "children": null
-              },
-              "dcp": {
-                "next": null,
-                "kana": "ドゥー",
-                "children": null
-              },
-              "dcu": {
-                "next": null,
-                "kana": "デュ",
-                "children": null
-              }
-            }
-          },
-          "df": {
-            "next": null,
-            "kana": "デ",
-            "children": null
-          },
-          "dg": {
-            "next": null,
-            "kana": "ダガ",
-            "children": null
-          },
-          "dh": {
-            "next": null,
-            "kana": "ヅウ",
-            "children": null
-          },
-          "dj": {
-            "next": null,
-            "kana": "ヅン",
-            "children": null
-          },
-          "dk": {
-            "next": null,
-            "kana": "ヂン",
-            "children": null
-          },
-          "dl": {
-            "next": null,
-            "kana": "ドン",
-            "children": null
-          },
-          "dm": {
-            "next": null,
-            "kana": "デモ",
-            "children": null
-          },
-          "dn": {
-            "next": null,
-            "kana": "ダン",
-            "children": null
-          },
-          "dp": {
-            "next": null,
-            "kana": "ドウ",
-            "children": null
-          },
-          "dq": {
-            "next": null,
-            "kana": "ダイ",
-            "children": null
-          },
-          "dr": {
-            "next": null,
-            "kana": "デアル",
-            "children": null
-          },
-          "ds": {
-            "next": null,
-            "kana": "デス",
-            "children": null
-          },
-          "dt": {
-            "next": null,
-            "kana": "ダチ",
-            "children": null
-          },
-          "dv": {
-            "next": null,
-            "kana": "デン",
-            "children": null
-          },
-          "dw": {
-            "next": null,
-            "kana": "デイ",
-            "children": null
-          },
-          "dz": {
-            "next": null,
-            "kana": "ダン",
-            "children": null
-          },
           "dy": {
             "next": null,
-            "kana": "ディ",
+            "kana": null,
             "children": {
               "dyu": {
                 "next": null,
@@ -3373,6 +1364,37 @@
             "kana": "ヂ",
             "children": null
           },
+          "dh": {
+            "next": null,
+            "kana": null,
+            "children": {
+              "dhu": {
+                "next": null,
+                "kana": "デュ",
+                "children": null
+              },
+              "dho": {
+                "next": null,
+                "kana": "デョ",
+                "children": null
+              },
+              "dhi": {
+                "next": null,
+                "kana": "ディ",
+                "children": null
+              },
+              "dhe": {
+                "next": null,
+                "kana": "デェ",
+                "children": null
+              },
+              "dha": {
+                "next": null,
+                "kana": "デャ",
+                "children": null
+              }
+            }
+          },
           "de": {
             "next": null,
             "kana": "デ",
@@ -3384,8 +1406,8 @@
             "children": null
           },
           "dd": {
-            "next": null,
-            "kana": "デン",
+            "next": "d",
+            "kana": "ッ",
             "children": null
           }
         }
@@ -3394,96 +1416,6 @@
         "next": null,
         "kana": null,
         "children": {
-          "ca": {
-            "next": null,
-            "kana": "チャ",
-            "children": null
-          },
-          "cd": {
-            "next": null,
-            "kana": "チェン",
-            "children": null
-          },
-          "ce": {
-            "next": null,
-            "kana": "チェ",
-            "children": null
-          },
-          "cf": {
-            "next": null,
-            "kana": "チェ",
-            "children": null
-          },
-          "ch": {
-            "next": null,
-            "kana": "チュウ",
-            "children": null
-          },
-          "ci": {
-            "next": null,
-            "kana": "チ",
-            "children": null
-          },
-          "cj": {
-            "next": null,
-            "kana": "チュン",
-            "children": null
-          },
-          "ck": {
-            "next": null,
-            "kana": "チン",
-            "children": null
-          },
-          "cl": {
-            "next": null,
-            "kana": "チョン",
-            "children": null
-          },
-          "cn": {
-            "next": null,
-            "kana": "チャン",
-            "children": null
-          },
-          "co": {
-            "next": null,
-            "kana": "チョ",
-            "children": null
-          },
-          "cp": {
-            "next": null,
-            "kana": "チョウ",
-            "children": null
-          },
-          "cq": {
-            "next": null,
-            "kana": "チャイ",
-            "children": null
-          },
-          "cu": {
-            "next": null,
-            "kana": "チュ",
-            "children": null
-          },
-          "cv": {
-            "next": null,
-            "kana": "チャイ",
-            "children": null
-          },
-          "cw": {
-            "next": null,
-            "kana": "チェイ",
-            "children": null
-          },
-          "cx": {
-            "next": null,
-            "kana": "チェイ",
-            "children": null
-          },
-          "cz": {
-            "next": null,
-            "kana": "チャン",
-            "children": null
-          },
           "cy": {
             "next": null,
             "kana": null,
@@ -3515,9 +1447,40 @@
               }
             }
           },
-          "cc": {
+          "ch": {
             "next": null,
-            "kana": "チャ",
+            "kana": null,
+            "children": {
+              "chu": {
+                "next": null,
+                "kana": "チュ",
+                "children": null
+              },
+              "cho": {
+                "next": null,
+                "kana": "チョ",
+                "children": null
+              },
+              "chi": {
+                "next": null,
+                "kana": "チ",
+                "children": null
+              },
+              "che": {
+                "next": null,
+                "kana": "チェ",
+                "children": null
+              },
+              "cha": {
+                "next": null,
+                "kana": "チャ",
+                "children": null
+              }
+            }
+          },
+          "cc": {
+            "next": "c",
+            "kana": "ッ",
             "children": null
           }
         }
@@ -3526,120 +1489,10 @@
         "next": null,
         "kana": null,
         "children": {
-          "bd": {
-            "next": null,
-            "kana": "ベン",
-            "children": null
-          },
-          "bh": {
-            "next": null,
-            "kana": "ブウ",
-            "children": null
-          },
-          "bj": {
-            "next": null,
-            "kana": "ブン",
-            "children": null
-          },
-          "bk": {
-            "next": null,
-            "kana": "ビン",
-            "children": null
-          },
-          "bl": {
-            "next": null,
-            "kana": "ボン",
-            "children": null
-          },
-          "bn": {
-            "next": null,
-            "kana": "バン",
-            "children": null
-          },
-          "bp": {
-            "next": null,
-            "kana": "ボウ",
-            "children": null
-          },
-          "bq": {
-            "next": null,
-            "kana": "バイ",
-            "children": null
-          },
-          "br": {
-            "next": null,
-            "kana": "バラ",
-            "children": null
-          },
-          "bt": {
-            "next": null,
-            "kana": "ビト",
-            "children": null
-          },
-          "bw": {
-            "next": null,
-            "kana": "ベイ",
-            "children": null
-          },
-          "bx": {
-            "next": null,
-            "kana": "ベイ",
-            "children": null
-          },
-          "bz": {
-            "next": null,
-            "kana": "バン",
-            "children": null
-          },
           "by": {
             "next": null,
             "kana": null,
             "children": {
-              "byd": {
-                "next": null,
-                "kana": "ビェン",
-                "children": null
-              },
-              "byh": {
-                "next": null,
-                "kana": "ビュウ",
-                "children": null
-              },
-              "byj": {
-                "next": null,
-                "kana": "ビュン",
-                "children": null
-              },
-              "byl": {
-                "next": null,
-                "kana": "ビョン",
-                "children": null
-              },
-              "byn": {
-                "next": null,
-                "kana": "ビャン",
-                "children": null
-              },
-              "byp": {
-                "next": null,
-                "kana": "ビョウ",
-                "children": null
-              },
-              "byq": {
-                "next": null,
-                "kana": "ビャイ",
-                "children": null
-              },
-              "byw": {
-                "next": null,
-                "kana": "ビェイ",
-                "children": null
-              },
-              "byz": {
-                "next": null,
-                "kana": "ビャン",
-                "children": null
-              },
               "byu": {
                 "next": null,
                 "kana": "ビュ",

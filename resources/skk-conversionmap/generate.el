@@ -30,10 +30,11 @@
   (find-file "default.json")
   (erase-buffer)
   (insert (rule-list-to-json-string
-	   skk-rule-tree #'(lambda (kana) (pcase kana
-					    ((pred consp) (cdr kana))
-					    ((pred stringp) kana)
-					    (_ nil)))))
+	   (skk-compile-rule-list skk-rom-kana-base-rule-list)
+	   #'(lambda (kana) (pcase kana
+			      ((pred consp) (cdr kana))
+			      ((pred stringp) kana)
+			      (_ nil)))))
   (json-pretty-print-buffer))
 
 
@@ -41,8 +42,9 @@
   (find-file "katakana.json")
   (erase-buffer)
   (insert (rule-list-to-json-string
-	   skk-rule-tree #'(lambda (kana) (pcase kana
-					    ((pred consp) (car kana))
-					    ((pred stringp) kana)
-					    (_ nil)))))
+	   (skk-compile-rule-list skk-rom-kana-base-rule-list)
+	   #'(lambda (kana) (pcase kana
+			      ((pred consp) (car kana))
+			      ((pred stringp) kana)
+			      (_ nil)))))
   (json-pretty-print-buffer))
