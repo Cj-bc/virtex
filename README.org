@@ -3,5 +3,8 @@
 This repository contains public resources and issues for virtex.
 Actual item is only avaiable in Resonite.
 
-Public folder: resrec:///U-CjBC-SD/R-de1cf9a2-f7da-4a53-8a1d-10457098959c
 
+** Links
+
+| Public folder                               | resrec:///U-CjBC-SD/R-de1cf9a2-f7da-4a53-8a1d-10457098959c               |
+| My Videos about Virtex (mostly in Japanese) | https://www.youtube.com/playlist?list=PLthVjqwIzS2FSxFiiJeFI-GMTxj0bJLK9 |
