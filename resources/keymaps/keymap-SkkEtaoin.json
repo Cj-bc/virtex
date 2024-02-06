@@ -31,7 +31,7 @@
     "bind.lxt_rg_rt" : "Skk.Insert:q",
     "bind.lxt_lg_rt" : "Skk.Insert:z",
     "bind.rg_rjt": "KeyAction.SetKeymap:Etaoin",
-    "bind.ryt": "Skk.ConversionKey",
+    "bind.ryt_rg": "Skk.ConversionKey",
     "bind.rjt_rt": "KeyAction.SetKeymap:Glyphs",
-    "bind.rg_rjt_rt": "Skk.ToggleKana",
+    "bind.ryt_rt": "Skk.ToggleKana",
 }
