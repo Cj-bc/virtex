@@ -2,7 +2,7 @@
     "bind.ljt_rjt_rt" : "KeyAction.Forward",
     "bind.ljt_lt_rjt" : "KeyAction.Backward",
     "bind.rtr" : "KeyAction.Insert: ",
-    "bind.ltr" : "Func.SkkBackSpace",
+    "bind.ltr" : "Skk.BackSpace",
     "bind.lyt_lxt_lt" : "KeyAction.SetKeymap:Default",
     "bind.lt" : "Func.SkkInsert:e",
     "bind.rt" : "Func.SkkInsert:t",
