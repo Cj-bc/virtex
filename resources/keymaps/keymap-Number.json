@@ -1,6 +1,8 @@
 {
     "bind.ljt_rjt_rt" : "KeyAction.Forward",
     "bind.ljt_lt_rjt" : "KeyAction.Backward",
+    "bind.rtr" : "KeyAction.Insert: ",
+    "bind.ltr" : "KeyAction.BackSpace",
     "bind.lyt_lxt_lt" : "KeyAction.SetKeymap:Default",
     "bind.lt_rt" : "KeyAction.Insert:0",
     "bind.lt" : "KeyAction.Insert:1",
